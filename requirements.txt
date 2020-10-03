@@ -3,3 +3,5 @@ fastai==2.0.13
 pillow<7
 packaging
 ipywidgets==7.5.1
+kornia
+scikit-image
